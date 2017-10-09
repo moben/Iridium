@@ -5628,7 +5628,7 @@
                 holder      = document.createElement("link");
                 holder.rel  = "stylesheet";
                 holder.type = "text/css";
-                holder.href = "https://particlecore.github.io/Iridium/css/Iridium.css?v=" + this.GM.info.script.version;
+                holder.href = "https://moben.github.io/Iridium/css/Iridium.css?v=" + this.GM.info.script.version;
                 document.documentElement.appendChild(holder);
 
             }
